@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="regression">
+	<test name="login">
+	<classes>
+<class name="muhannad.com.muhannadtraining.signkh"></class>
+				
+</classes>
+</test>
+</suite>
